@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  
     <teiHeader>
         <fileDesc>
@@ -34,7 +37,7 @@
                     Hochschule der Medien Stuttgart
                 </publisher>
                     <publisher>
-                        Thrüingische Universitäts- und Landesbibliothek Jena
+                        Thüringische Universitäts- und Landesbibliothek Jena
                     </publisher>
             </publicationStmt>
             <sourceDesc>
@@ -85,7 +88,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     Zeilenumbrüche nach Original
@@ -105,14 +108,123 @@
             <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143f0134-20.pdf"/>  
             <div type="chapter" n="009">
                     <div type="diaryEntry" n="13">
-                        <p>Tagebucheintrag 13</p>
+                        <p>Tagebucheintrag 13
+                            Arctowski, Tagebuch der Südpolarreise der »Belgica«.<lb/>
+Position liegenden Insel emporragen. Ich ging mit <persName ref="https://viaf.org/viaf/61852427/">Lecointe</persName> auf Deck spazieren und<lb/>
+zeigte ihm eine Stelle, die mir zugänglich erschien. Wir sprachen dann von einer Be-<lb/>
+steigung, die man versuchen könnte. In der Ferne ist ein sanfter, sehr regelmäßiger<lb/>
+Abhang sichtbar, der scheinbar bis zu einem Gipfel führt, der wohl eine Höhe von 2000 m.<lb/>
+erreicht. Es scheint uns, daß man diesen Berg müßte erklettern können. Dort oben<lb/>
+würde sich die Aussicht nach allen Richtungen hin erstrecken, und man könnte die Umrisse<lb/>
+der Länder sehr leicht abzeichnen und sich über das Bodenrelief klar werden. <persName ref="https://viaf.org/viaf/61852427/">Lecointe</persName> <lb/>
+sprach mir von der Methode des <persName ref="https://viaf.org/viaf/170676561/">Admirals Mouchez</persName>, eine Aufnahme unter Zugrundelegung<lb/>
+der Höhe zu machen. Da die Höhe der Beobachtungsstation als Basis genommen wird,<lb/>
+so werden die Entfernungen durch die Winkel zur Senkrechten bestimmt; man braucht<lb/>
+dann bloß die Richtungen in Bezug auf den Meridian anzugeben, um die betreffenden<lb/>
+Punkte auf der Karte zu fixieren. <persName ref="https://viaf.org/viaf/61852427/">Lecointe</persName> will diese Methode anwenden. <persName ref=https://viaf.org/viaf/17526355/">Cook</persName> wird<lb/>
+bereit sein uns zu begleiten, und <persName ref=https://www.wikidata.org/wiki/Q926>Amundsen</persName> mit Freuden mitmachen.<lb/>
+Sonntag, den 30. Januar. Wir steuern nordnordöstlich, um am Fuße der Berge<lb/>
+zu landen, die wir besteigen wollen. Der Kommandant hat sich entschlossen mit uns zu<lb/>
+gehen, aber dann bliebe die »Belgica« ohne Offiziere an Bord, was unmöglich ist; auch erhebt<lb/>
+<persName ref=https://viaf.org/viaf/317289993/>Racovitza</persName> Einspruch dagegen. <persName ref="https://viaf.org/viaf/61852427/">Lecointe</persName> wird also an Bord bleiben und <persName ref=https://www.wikidata.org/wiki/Q3588445>Danco</persName/>, der mit<lb/>
+<lb/>
+uns geht, wird die Vermessungsarbeiten mit dem Theodolit machen. Indes werden viel<lb/>
+zu umfangreiche Vorbereitungen getroffen, und die geplante Exkursion wird unvermeidlich<lb/>
+ihr Ziel verfehlen. Sollte dieselbe gelingen, so müßte ein jeder einen Sack auf den<lb/>
+Rücken nehmen und seine Kräfte stark anspannen, und sobald der Weg schlecht ist, um-<lb/>
+kehren und einen anderen wählen. Wir können nämlich den sanften Abhang, den wir<lb/>
+gestem Abend von weitem sahen, nicht mehr erkennen, und es ist nicht gesagt, daß der<lb/>
+Punkt, wo wir landen wollen, eine günstige Stelle sein wird. Zwei Schlitten (Modell<lb/>
+Hansen), Schlafsäcke aus Pelz, ein Zelt aus Seide zum Schutze gegen Wind und Wetter,<lb/>
+der kleine Jackson-Aluminiumofen, Eisbeile, ein Seil aus Rohseide von 10 m Länge, Lebens-<lb/>
+mittel für 14 Tage, sogar etwas Wäsche zum Wechseln werden mitgenommen, und dann<lb/>
+noch die Instrumente. Das ist entschieden ein viel zu beschwerliches Gepäck, und wir werden<lb/>
+während der acht Tage, die wir auf dem Gletscher zu verbringen gedenken, nichts ausrichten.<lb/>
+Man kann indes nichts im voraus wissen; vielleicht finden wir etwas Interessantes zu be-<lb/>
+obachten? — Wir finden eine schöne Bucht, in deren Hintergrund ein ungeheurer Gletscher<lb/>
+endigt. Wir landen auf einem leicht zugänglichen kleinen Vorgebirge. Die Schneedecke<lb/>
+reicht bis zum Meeresniveau herab, der Äufstieg bietet also keinerlei Schwierigkeiten, aber<lb/>
+die Schlitten sind schrecklich schwer. <persName ref="https://viaf.org/viaf/61852427/">Lecointe</persName>, <persName>Tollewsen</persName> und <persName>Johansen</persName> helfen uns, dann<lb/>
+<lb/>
+gehen wir allein weiter; wir sind unser fünf: <persName ref=https://viaf.org/viaf/49364862/>de Gerlache</persName>, <persName ref=https://www.wikidata.org/wiki/Q3588445>Danco</persName>, <persName ref=https://www.wikidata.org/wiki/Q926>Amundsen</persName>, <persName ref=https://viaf.org/viaf/17526355/">Cook</persName> und ich.<lb/>
+Die »Belgica« verläßt die Bucht. <persName ref="https://viaf.org/viaf/61852427/">Lecointe</persName> wird eine Rekognoszierungsfahrt nach S unter-<lb/>
+nehmen und uns dann wieder abholen. Ich hoffe, er findet die Stelle unseres Landungs-<lb/>
+punktes ohne viel Schwierigkeiten wieder, denn die Bucht ist sehr charakteristisch, und<lb/>
+das Wetter müßte sehr neblig sein, um sie nicht wieder zu erkennen. In einer Höhe von<lb/>
+150—180 m haben wir einige Spalten zu durchqueren; sie sind schmal und die Schnee-<lb/>
+brücken fest genug, um sie mit unserem ganzen Gepäck ohne irgend welche Schwierig-<lb/>
+keiten überschreiten zu können. Weiter oben breitet sich ein großes Schneefeld aus. Von<lb/>
+dieser Höhe aus beherrschte man schon den großen Gletschersturz, in welchem der enorme<lb/>
+Gletscher im Hintergrunde der Bucht endigt. Von dieser Gletscherstirn kann das Eis sich<lb/>
+nur in kleinen Stücken loslösen; die wesentliche Bedingung der Bildung von Eisbergen ist<lb/>
+demnach die, daß die Neigung des Gletschers so schwach ist, daß sie die Entstehung eines<lb/>
+Eistrümmerhaufens an seinem Ende verhindert.<lb/>
+Bild: 20.<lb/>
+                        </p>
                     </div>
                     <div type="diaryEntry" n="14">
-                        <p>Tagebucheintrag 14</p>
+                        <p>Tagebucheintrag 14
+                            Montag, den 31. Januar. Die Nacht verlief gut, obwohl wir in unserem Zelte zu<lb/>
+                        </p>
                         <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143f0134-21.pdf"/>
                     </div>
                 <div type="diaryEntry">
-                    <p>Fortsetzung Tagebucheintrag 14</p>
+                    <p>Fortsetzung Tagebucheintrag 14
+                        30. Januar bis 4. Februar 1898.<lb/>
+eng zusammengedrängt waren. Zum Frühstück die ewige Grütze; dann packten wir unsere<lb/>
+Sachen zusammen und setzten den Marsch fort. Aber es war zu neblig, um sich weiter<lb/>
+vorwärts zu wagen. Um abzuwarten bis der Nebel sich hob, schlugen wir ein zweites<lb/>
+Lager auf; einen Augenblick darauf wurde der Himmel frei und wir hatten sehr schönes<lb/>
+Wetter. <persName ref=https://viaf.org/viaf/17526355/">Cook</persName> und ich gingen auf Rekognoszierung aus. Der Gletscher, auf dem wir uns<lb/>
+befanden, bildete ein zusammenhängendes Plateau, welches nach dem Innern der Insel und<lb/>
+nach zwei Bergspitzen hin, von denen die eine im NO, die andere im SWW emporragt<lb/>
+leicht ansteigt. Da die Verhältnisse in nordwestlicher Richtung scheinbar sehr günstig<lb/>
+waren, brachen wir alle nach dieser Richtung auf, indem wir unsere Schlitten nachzogen.<lb/>
+Wir stießen nur auf einige kleine Spalten, die leicht zu überschreiten waren, dann<lb/>
+wurde die Neigung immer stärker. Um 21/2 Uhr stellte ich während des Mittagessens die<lb/>
+Aktinometer auf den Schnee. Sie zeigten ein Maximum von 39,2° und 30,0° bei leicht<lb/>
+verdeckter Sonne. Die Lufttemperatur, mit dem Schleuderthermometer gemessen, war zu<lb/>
+gleicher Zeit + 1,2°. Die Sonnenstrahlung macht sich sehr stark fühlbar; uns allen wird<lb/>
+sehr warm, was leicht verständlich ist, da das Thermometer mit schwarzer Kugel + 39.<lb/>
+zeigt. Von der Höhe hatten wir eine weitausgedehnte Fernsicht in südlicher Richtung.<lb/>
+Die hohen Berge, die sich jenseits der Meerenge befinden, werden nach O zu allmählich<lb/>
+niedriger. Die Richtung dieser großen Bergkette scheint mir eine nordost-südwestliche<lb/>
+zu sein. Jene ganze Gebirgsgegend scheint eingesunken. Wenn indes der westliche Teil<lb/>
+dieser Länder eingesunken ist, wäre es immerhin möglich, daß im 0 — ebenso wie am<lb/>
+Südende der <placeName>Andenkette</placeName> — eine weite Hebungsfläche vorhanden ist. Ein ebenes Relief<lb/>
+würde die Gletscher zwingen, sich weit ins Meer hinein auszudehnen. Dann könnten die<lb/>
+<lb/>
+<lb/>
+auf dem Kontinentalplateau sich loslösenden Eisberge sehr beträchtliche Dimensionen erreichen.<lb/>
+Hier dagegen haben die meisten der Küstengletscher den Charakter von Gehängegletscher,<lb/>
+die im Meeresniveau endigen, da sie sich nicht weiter ausbreiten können.<lb/>
+Um 7 Uhr abends steigen wir immer noch weiter, da das Wetter sehr günstig ist.<lb/>
+Die Perspektive, die wir auf <placeName ref=https://www.wikidata.org/wiki/Q618370>Grahamland</placeName> haben, wird immer wundervoller. Das Relief<lb/>
+dieses Landes, das außerordentlich wild ist, wird durch die Gletscher und die Anhäufung<lb/>
+ewigen Schnees besonders stark abgeflacht, und nur weil die durch das fließende Wassen<lb/>
+vergangener Epochen gegrabenen Täler so tief sind, zeigen sich noch einzelne Kämme und<lb/>
+einige ganz steile Abhänge unbedeckt.<lb/>
+Dienstag, den 1. Februar. Gestern stiegen wir bis zu 500 m Höhe, dort aber ver-<lb/>
+sperrte uns eine 10m breite Spalte den Durchgang in der ganzen Ausdehnung. Jenseits<lb/>
+dieser Spalte, waren noch andere, und der Gletscher war stufenförmig abgeteilt. Um das<lb/>
+Nachtlager aufzuschlagen, mußten wir wieder in die Ebene hinuntersteigen. Den ganzen<lb/>
+Tag über zogen wir nutzlos unsere Geräte nach einem kleinen Berge, der im W lag.<lb/>
+Auch dort hinderten uns zahlreiche Spalten weiter zu kommen. Übrigens hätten wir von<lb/>
+<lb/>
+diesem Berge aus nur einen Teil des Horizonts überschauen können. Wir kehrten auf<lb/>
+demselben Wege wieder zurück, um uns wiederum in der Ebene für die Nacht einzurichten.<lb/>
+Mittwoch und Donnerstag lassen wir unser Lager an Ort und Stelle und unter-<lb/>
+nehmen, angesichts der Unmöglichkeit, einen hohen Gipfel zu erreichen, eine Besteigung<lb/>
+zweier im O liegender Nunataks. Da der Zugang des einen ziemlich leicht war, so stellten<lb/>
+Danco und de Gerlache dort den Theodolit auf. Sie waren mit Aufnahmen beschäftigt.<lb/>
+Die niedrigste Temperatur während der Nacht vom Dienstag auf Mittwoch war — 3,s°.<lb/>
+Freitag, den 4. Februar. Das Minimum der Nachttemperatur beträgt — 4,1°. Seit<lb/>
+zwei oder drei Tagen hat die Strahlung den gefallenen Schnee nicht in Firn verwandelt.<lb/>
+Heute habe ich die ganze Ebene durchwandert, und überall konnte ich Schnee an der<lb/>
+Oberfläche sehen und bei 10 em Tiefe gefrorenen Firn. Die Ebene, auf der wir unser<lb/>
+Arctowski, Südpolarreise der »Belgicar.<lb/>
+Bild: 21<lb/>
+                    </p>
                 </div>
              </div>
             
